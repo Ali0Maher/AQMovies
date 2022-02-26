@@ -6,7 +6,11 @@ An ios application that fetches popular movies and give you some information abo
 
 ## Screenshots
 
-![App Screenshot](/Assets/imageOne.png =250x250)
+<img src="/Assets/imageOne.png" width="150" height="280"> <img src="/Assets/imageTwo.png" width="150" height="280">
+
+## Dark Mode
+
+<img src="/Assets/imageOneDark.png" width="150" height="280"> <img src="/Assets/imageTwoDark.png" width="150" height="280">
 
 
 ## Acknowledgements
