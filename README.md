@@ -6,7 +6,7 @@ An ios application that fetches popular movies and give you some information abo
 
 ## Screenshots
 
-![App Screenshot](/Assets/imageOne.png | width=100)
+![App Screenshot](/Assets/imageOne.png =250x250)
 
 
 ## Acknowledgements
